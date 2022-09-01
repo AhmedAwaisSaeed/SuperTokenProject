@@ -4,6 +4,7 @@ import {Layout} from '../../theme';
 const Index = () => {
   return (
     <View style={styles.container}>
+      <Text>Logged in Succesfully</Text>
       <TouchableOpacity style={styles.buttonStyle}>
         <Text>Signout</Text>
       </TouchableOpacity>
