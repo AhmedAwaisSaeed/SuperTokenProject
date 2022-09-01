@@ -5,10 +5,10 @@ const Index = () => {
   return (
     <View style={styles.container}>
       <TouchableOpacity style={styles.buttonStyle}>
-        <Text>Login With Google</Text>
+        <Text>Signout</Text>
       </TouchableOpacity>
       <TouchableOpacity style={styles.buttonStyle}>
-        <Text>Login With Facebook</Text>
+        <Text>Capture an image/video</Text>
       </TouchableOpacity>
     </View>
   );
